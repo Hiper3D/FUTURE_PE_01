@@ -1,28 +1,29 @@
-Act as an expert conversion copywriter. I need a complete set of website copy for a local business. Follow the variables and instructions below strictly.
+Act as a Senior Conversion Copywriter for a digital marketing agency. Your objective is to generate a complete, conversion-focused website copy wireframe for a local business. 
 
-VARIABLES:
+SYSTEM VARIABLES:
 - Business Name: Bhubaneswar CityCare Diagnostics
-- Business Type: Diagnostic Center & Path Lab
+- Business Type: Diagnostic Center & Pathology Lab
 - Location: Bhubaneswar, Odisha
-- Target Audience: Local residents, families, and elderly patients needing reliable health tests.
-- Tone: Professional, empathetic, trustworthy, and clear.
+- Target Audience: Families, elderly patients, and busy professionals needing fast, accurate health tests.
+- Tone Adaptation: Professional, highly empathetic, authoritative, and reassuring. (Avoid aggressive sales language; focus on trust and accuracy).
 
-DELIVERABLES:
-Generate the following sections using clear, benefit-driven language. Avoid generic AI fluff.
+DELIVERABLES & FORMATTING:
+Generate the copy using the following structured sections. Do not use generic AI filler like "Welcome to our website."
 
 1. HOMEPAGE COPY
-- Headline: A clear, strong value proposition.
-- Sub-headline: Who it’s for + the main benefit.
-- Short Intro Section: 2-3 sentences building trust and explaining why local residents choose this lab.
+- Primary Headline (H1): A powerful, benefit-driven value proposition (max 8 words).
+- Sub-headline (H2): Clarify exactly who you help and how (max 2 sentences).
+- Trust-Building Intro: A 3-4 sentence paragraph explaining your local roots in Bhubaneswar, your commitment to accuracy, and why patients choose you over corporate hospital labs.
 
-2. SERVICES PAGE CONTENT
-List 3 core services (e.g., Complete Blood Count, Full Body Checkup, Home Blood Collection). For each, include:
-- Service Name
-- What’s included (bullet points)
-- Why customers should choose this specific service here (1 sentence).
+2. CORE SERVICES PAGE
+List 3 distinct services. For each service, provide:
+- Service Title
+- A 2-sentence persuasive description.
+- 3 bullet points detailing exactly "What's Included."
+- A 1-sentence "Why Choose Us" differentiator for this specific service.
 
-3. CALL-TO-ACTION (CTA) SECTIONS
-Provide 3 distinct CTAs:
-- Contact / Booking Prompt: Clear instructions on how to book a test.
-- Trust-Building Copy: A short CTA emphasizing accuracy and fast reports.
-- Location/Urgency CTA: A CTA highlighting the convenience of the Bhubaneswar location or same-day home collection.
+3. CALL-TO-ACTION (CTA) FRAMEWORKS
+Write 3 distinct CTA blocks that can be placed across the site:
+- Direct Booking CTA: For the top navigation bar or hero section.
+- Trust/Authority CTA: Focused on certifications (NABL/ISO) and report accuracy.
+- Urgency/Convenience CTA: Focused on same-day home collection in Bhubaneswar.
