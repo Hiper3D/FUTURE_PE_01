@@ -25,4 +25,4 @@ List 3 core services (e.g., Complete Blood Count, Full Body Checkup, Home Blood 
 Provide 3 distinct CTAs:
 - Contact / Booking Prompt: Clear instructions on how to book a test.
 - Trust-Building Copy: A short CTA emphasizing accuracy and fast reports.
-- Location/Urgency CTA: A CTA highlighting the convenience of the Rourkela location or same-day home collection.
+- Location/Urgency CTA: A CTA highlighting the convenience of the Bhubaneswar location or same-day home collection.
