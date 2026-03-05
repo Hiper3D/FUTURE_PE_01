@@ -1,0 +1,28 @@
+Act as an expert conversion copywriter. I need a complete set of website copy for a local business. Follow the variables and instructions below strictly.
+
+VARIABLES:
+- Business Name: Bhubaneswar CityCare Diagnostics
+- Business Type: Diagnostic Center & Path Lab
+- Location: Bhubaneswar, Odisha
+- Target Audience: Local residents, families, and elderly patients needing reliable health tests.
+- Tone: Professional, empathetic, trustworthy, and clear.
+
+DELIVERABLES:
+Generate the following sections using clear, benefit-driven language. Avoid generic AI fluff.
+
+1. HOMEPAGE COPY
+- Headline: A clear, strong value proposition.
+- Sub-headline: Who it’s for + the main benefit.
+- Short Intro Section: 2-3 sentences building trust and explaining why local residents choose this lab.
+
+2. SERVICES PAGE CONTENT
+List 3 core services (e.g., Complete Blood Count, Full Body Checkup, Home Blood Collection). For each, include:
+- Service Name
+- What’s included (bullet points)
+- Why customers should choose this specific service here (1 sentence).
+
+3. CALL-TO-ACTION (CTA) SECTIONS
+Provide 3 distinct CTAs:
+- Contact / Booking Prompt: Clear instructions on how to book a test.
+- Trust-Building Copy: A short CTA emphasizing accuracy and fast reports.
+- Location/Urgency CTA: A CTA highlighting the convenience of the Rourkela location or same-day home collection.
