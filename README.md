@@ -1,21 +1,21 @@
-# FUTURE_PE_01
-AI Website Copy Generator.
 # Future Interns: Task 1 - AI Website Copy Generator 
 
 ## Overview
-This repository contains the deliverables for Task 1 of the Prompt Engineering Internship. The objective was to design a structured, repeatable prompt system that generates conversion-focused website copy for local businesses, avoiding generic AI language.
+This repository contains the deliverables for Task 1 of the Prompt Engineering Internship. The objective was to design a structured, repeatable prompt system that generates conversion-focused website copy for local businesses, avoiding generic AI language and adapting to specific brand tones.
 
 ## Business Profile 
 * **Business Name:** Bhubaneswar CityCare Diagnostics
-* **Business Type:** Diagnostic Center & Path Lab
+* **Business Type:** Diagnostic Center & Pathology Lab
 * **Location:** Bhubaneswar, Odisha
 
 ## Prompt Engineering Logic
-Instead of asking the AI to "write a website," I designed a variable-based master prompt (`master_prompt.txt`). By defining explicit variables for `[Business Name]`, `[Location]`, `[Target Audience]`, and `[Tone]`, this prompt acts as a scalable template. It forces the LLM to output structured data specifically tailored for a web builder (Homepage, Services, and CTAs) rather than a block of unstructured text. 
+The master prompt (`master_prompt.txt`) is built as a repeatable "System Template." By isolating variables (`Business Name`, `Target Audience`, `Tone Adaptation`), the prompt can be reused for any local business (e.g., a cafe or salon) simply by changing the variables. 
+
+I applied strict formatting constraints, forcing the LLM to output specific HTML-ready structures (H1/H2 tags, bulleted features, distinct CTA frameworks) rather than a wall of text. I also utilized negative constraints (e.g., "Do not use generic AI filler like 'Welcome to our website'") to ensure the output reads like a premium, human-written wireframe.
 
 ## Included Files
-1. `master_prompt.txt`: The variable-based instruction set.
-2. `website_copy.txt`: The generated output, ready for deployment.
+1. `master_prompt.txt`: The system instruction set and variable parameters.
+2. `website_copy.txt`: The final AI-generated copy, ready for deployment to a web developer or CMS.
 
 ## Tools Used
 * Generative AI (Google Gemini)
