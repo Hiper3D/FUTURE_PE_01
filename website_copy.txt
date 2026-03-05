@@ -1,38 +1,50 @@
-# Bhubaneswar CityCare Diagnostics - Website Copy
+# Bhubaneswar CityCare Diagnostics - Website Copy Wireframe
 
 ## 1. HOMEPAGE COPY
 
-**Headline:** Accurate Diagnostics, Trusted by Bhubaneswar.
+**Primary Headline (H1):** Accurate Diagnostics. Compassionate Care. Trusted by Bhubaneswar.
 
-**Sub-headline:** Comprehensive health testing and pathology services for your family, delivered with care and precision. 
+**Sub-headline (H2):** Comprehensive pathology, blood tests, and full-body health checkups delivered with zero errors and same-day reporting. Because your family's health can't wait.
 
-**Short Intro Section:** When it comes to your health, accuracy cannot be compromised. At Bhubaneswar CityCare Diagnostics, we combine state-of-the-art laboratory technology with compassionate care to provide you with reliable results you can trust. Conveniently located in the heart of Rourkela, we are dedicated to making healthcare accessible, fast, and stress-free for every patient.
-
----
-
-## 2. SERVICES PAGE CONTENT
-
-**1. Complete Blood Count (CBC) & Routine Profiles**
-* Includes: Red and white blood cell counts, hemoglobin, platelets, and general infection screening.
-* **Why choose us:** We use automated hematology analyzers to ensure zero human error and deliver your routine reports within 4 hours.
-
-**2. Comprehensive Full Body Checkup**
-* Includes: Lipid profile, liver function test (LFT), kidney function test (KFT), thyroid profile, and blood sugar levels.
-* **Why choose us:** Our all-inclusive preventive packages are affordably priced to help you monitor your family's overall health without hidden costs.
-
-**3. At-Home Blood Collection**
-* Includes: Safe and hygienic sample collection from your doorstep by certified phlebotomists.
-* **Why choose us:** Skip the waiting room—our technicians arrive on time, and your reports are delivered straight to your WhatsApp and email.
+**Trust-Building Intro:** When it comes to medical testing, accuracy is everything. At Bhubaneswar CityCare Diagnostics, we bridge the gap between advanced medical technology and personalized, localized care. Unlike overcrowded hospital labs, we provide a stress-free, hygienic environment right here in your neighborhood. With state-of-the-art automated analyzers and a team of veteran phlebotomists, we ensure your results are fast, flawless, and fully confidential.
 
 ---
 
-## 3. CALL-TO-ACTION (CTA) SECTIONS
+## 2. CORE SERVICES PAGE
 
-**Contact / Booking Prompt:**
-"Take control of your health today. Call us at [Phone Number] or click here to book your test online in under 2 minutes."
+**Service 1: Comprehensive Full Body Checkup**
+Preventive healthcare is your first line of defense. Our comprehensive full-body profiles are designed to detect silent health issues before they become emergencies, giving you total peace of mind.
+* **What’s Included:**
+  * Complete Blood Count (CBC) and Lipid Profile.
+  * Liver Function (LFT) and Kidney Function (KFT) tests.
+  * Thyroid screening and fasting blood sugar levels.
+* **Why Choose Us:** We offer affordable, transparently priced packages with a free post-test consultation to help you understand your reports.
 
-**Trust-Building Copy:**
-"Your health is our priority. Experience 100% accurate reporting backed by NABL-certified processes. View our accreditations."
+**Service 2: Advanced Pathology & Blood Profiling**
+From routine fever panels to complex hormonal assays, our core pathology lab handles all diagnostics with uncompromising precision. 
+* **What’s Included:**
+  * Dengue, Malaria, and Typhoid rapid screening.
+  * Vitamin B12 and Vitamin D3 deficiency tracking.
+  * HbA1c testing for diabetes management.
+* **Why Choose Us:** Our fully automated hematology lab eliminates human error, ensuring your doctor gets the exact data they need to treat you effectively.
 
-**Location/Urgency CTA:**
-"Need a test done today? Visit our fully equipped lab in Bhubaneswar, or schedule a same-day home collection. Book now and get your reports by tonight."
+**Service 3: Express At-Home Blood Collection**
+Don't let a busy schedule or limited mobility stop you from prioritizing your health. Our certified technicians bring the diagnostic lab directly to your living room.
+* **What’s Included:**
+  * Safe, hygienic sample collection using single-use, sterile equipment.
+  * Flexible booking slots that fit your daily schedule.
+  * Digital reports delivered securely via WhatsApp and Email by evening.
+* **Why Choose Us:** Our phlebotomists are specially trained in painless vein detection, making the process smooth and stress-free, even for elderly patients and children.
+
+---
+
+## 3. CALL-TO-ACTION (CTA) FRAMEWORKS
+
+**Direct Booking CTA (For Hero Section & Nav Bar):**
+"Take control of your health today. [Book Your Home Collection Now] or Call Us at +91-XXXXXXXXXX."
+
+**Trust/Authority CTA (For Footer & About Page):**
+"Don't compromise on your medical data. Experience 100% accurate reporting backed by strict internal quality controls. [View Our Test Menu]"
+
+**Urgency/Convenience CTA (For Services Page):**
+"Need your reports today? Schedule a home collection anywhere in Bhubaneswar before 10:00 AM and receive your digital reports by tonight. [Schedule a Test Today]"
