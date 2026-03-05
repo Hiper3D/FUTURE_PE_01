@@ -1,0 +1,38 @@
+# Rourkela CityCare Diagnostics - Website Copy
+
+## 1. HOMEPAGE COPY
+
+**Headline:** Accurate Diagnostics, Trusted by Bhubaneswar.
+
+**Sub-headline:** Comprehensive health testing and pathology services for your family, delivered with care and precision. 
+
+**Short Intro Section:** When it comes to your health, accuracy cannot be compromised. At Bhubaneswar CityCare Diagnostics, we combine state-of-the-art laboratory technology with compassionate care to provide you with reliable results you can trust. Conveniently located in the heart of Rourkela, we are dedicated to making healthcare accessible, fast, and stress-free for every patient.
+
+---
+
+## 2. SERVICES PAGE CONTENT
+
+**1. Complete Blood Count (CBC) & Routine Profiles**
+* Includes: Red and white blood cell counts, hemoglobin, platelets, and general infection screening.
+* **Why choose us:** We use automated hematology analyzers to ensure zero human error and deliver your routine reports within 4 hours.
+
+**2. Comprehensive Full Body Checkup**
+* Includes: Lipid profile, liver function test (LFT), kidney function test (KFT), thyroid profile, and blood sugar levels.
+* **Why choose us:** Our all-inclusive preventive packages are affordably priced to help you monitor your family's overall health without hidden costs.
+
+**3. At-Home Blood Collection**
+* Includes: Safe and hygienic sample collection from your doorstep by certified phlebotomists.
+* **Why choose us:** Skip the waiting room—our technicians arrive on time, and your reports are delivered straight to your WhatsApp and email.
+
+---
+
+## 3. CALL-TO-ACTION (CTA) SECTIONS
+
+**Contact / Booking Prompt:**
+"Take control of your health today. Call us at [Phone Number] or click here to book your test online in under 2 minutes."
+
+**Trust-Building Copy:**
+"Your health is our priority. Experience 100% accurate reporting backed by NABL-certified processes. View our accreditations."
+
+**Location/Urgency CTA:**
+"Need a test done today? Visit our fully equipped lab in Rourkela, or schedule a same-day home collection. Book now and get your reports by tonight."
